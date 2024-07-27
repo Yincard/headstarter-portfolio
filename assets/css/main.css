@@ -432,6 +432,14 @@ h1 {
   margin: 0; /* Remove default margin */
 }
 
+
+.bio-description {
+    p {
+        font-size: 1.5rem; /* Adjust size as needed */
+        margin-bottom: -50px; /* Adjust as needed for spacing between profile and description */
+    }
+}
+
 .job-title {
   margin: 0; /* Remove default margin */
 }
@@ -1926,6 +1934,8 @@ header.major> :last-child {
   margin: 0 0 2em 0;
   padding: 0 0.75em 0.5em 0;
 }
+
+
 
 header.main> :last-child {
   margin: 0 0 1em 0;
